@@ -36,14 +36,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Desin898&theme=tokyonight&column=6&no-frame=true&margin-w=12" />
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -63,7 +55,6 @@
   </a>
 </div>
 
-and recreate the readme file and give me
 
 ---
 
