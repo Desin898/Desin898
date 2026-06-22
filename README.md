@@ -12,7 +12,6 @@
 🔬 Currently developing an **Angiogram Analysis system** for vessel visualization and blockage detection.  
 🫀 Working on **ECG Diagnostic Model Training and Classification** for cardiac health.  
 ☁️ Deep diving into **Data Engineering** and Architecting solutions on **AWS**.  
-☕ **Fun fact:** Debugging works better with coffee (and maybe a bit of silence).
 
 ---
 
