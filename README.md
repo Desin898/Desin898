@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0AAFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Desindu+Pannilage+👋;AI+%26+Data+Science+Undergraduate+at+IIT;Machine+Learning+%7C+Computer+Vision;Data+Engineering+%26+Cloud+Solutions+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0AAFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Desindu+Pannilage+👋;AI+%26+Data+Science+Undergraduate+at+IIT" />
 
 </div>
 
