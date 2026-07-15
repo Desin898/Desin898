@@ -4,13 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6D00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Desindu+Pannilage+👋;AI+%26+Data+Science+Undergraduate" />
 </div>
 
----
-
 <p align="center">
   <video src="https://github.com/user-attachments/assets/68bdedd5-8099-45dd-89dc-96bc8924811f" width="100%" autoplay loop muted playsinline></video>
 </p>
 
----
 ## 👨‍💻 About Me
 
 🎓 **AI & Data Science Undergraduate** at the Informatics Institute of Technology (IIT).  
