@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6D00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Desindu+Pannilage+👋;AI+%26+Data+Science+Undergraduate" />
 </div>
@@ -5,7 +7,7 @@
 ---
 
 <p align="center">
-  <video src=".github/profile-video.mp4" width="100%" autoplay loop muted playsinline></video>
+  <video src="https://github.com/user-attachments/assets/68bdedd5-8099-45dd-89dc-96bc8924811f" width="100%" autoplay loop muted playsinline></video>
 </p>
 
 ---
@@ -76,11 +78,10 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Desin898&bg_color=00000000&color=0AAFFF&line=0AAFFF&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Desin898&bg_color=00000000&color=FF6D00&line=FF6D00&point=FFFFFF&hide_border=true&custom_title=%20" />
 </div>
 
 ---
-
 ## 🌐 Connect With Me
 
 <div align="center">
