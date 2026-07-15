@@ -1,13 +1,21 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0AAFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Desindu+Pannilage+👋;AI+%26+Data+Science+Undergraduate+at+IIT" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6D00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Desindu+Pannilage+👋;AI+%26+Data+Science+Undergraduate" />
 </div>
 
 ---
+
 <p align="center">
   <video src=".github/profile-video.mp4" width="100%" autoplay loop muted playsinline></video>
 </p>
+
+---
+## 👨‍💻 About Me
+
+🎓 **AI & Data Science Undergraduate** at the Informatics Institute of Technology (IIT).  
+💡 Passionate about applying **Machine Learning** and **Deep Learning** to solve real-world problems.  
+☁️ Exploring **Data Engineering** pipelines and architecting cloud solutions on **AWS**.  
+
+---
 
 ### 💻 Languages I Work With
 
