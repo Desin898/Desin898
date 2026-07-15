@@ -59,7 +59,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Desin898&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="400" height='150'/>
 </p>
----
 
 <p align="center">
   <img src="https://github.com/Desin898/Desin898/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake animation" />
