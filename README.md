@@ -15,19 +15,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Desin898&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Desin898&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desin898&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ### 💻 Languages I Work With
 
 <p align="center">
@@ -67,10 +54,16 @@
 
 ---
 
-## 🧰 Tech Stack
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,aws,mysql,mongodb,js,react,html,css,git,github,linux,vscode&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Desin898&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Desin898&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desin898&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
