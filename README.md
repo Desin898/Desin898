@@ -54,17 +54,30 @@
 
 ---
 
+### 📊 Github Stats
 
-## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimesh-dev&show_icons=true&theme=radical&hide=stars&count_private=true" width="400" height='150'/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dimesh-dev&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="400" height='150'/>
+</p>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Desin898&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Desin898&theme=tokyonight&hide_border=true" />
-</div>
+<details open>
+  <summary align="center"><h2> Profile Statistics </h2></summary>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=dimesh-dev&bg_color=00000000&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution+Graph"/>
+  </div>
+</details>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desin898&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+---
+
+<p align="center">
+  <img src="https://github.com/dimesh-dev/dimesh-dev/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake animation" />
+  <img src="https://github.com/dimesh-dev/dimesh-dev/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b2e05,100:c19a6b&height=120&section=footer"/>
+</p>
 
 ---
 
