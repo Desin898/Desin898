@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  <video src="profile-video.mp4" width="100%" autoplay loop muted playsinline></video>
+  <video src=".github/profile-video.mp4" width="100%" autoplay loop muted playsinline></video>
 </p>
 
 ### 💻 Languages I Work With
