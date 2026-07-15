@@ -5,15 +5,9 @@
 </div>
 
 ---
-
-## 👨‍💻 About Me
-
-🎓 **AI & Data Science Undergraduate** at the Informatics Institute of Technology (IIT).  
-🔬 Currently developing an **Angiogram Analysis system** for vessel visualization and blockage detection.  
-🫀 Working on **ECG Diagnostic Model Training and Classification** for cardiac health.  
-☁️ Deep diving into **Data Engineering** and Architecting solutions on **AWS**.  
-
----
+<p align="center">
+  <video src="profile-video.mp4" width="100%" autoplay loop muted playsinline></video>
+</p>
 
 ### 💻 Languages I Work With
 
