@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6D00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Desindu+Pannilage+👋;AI+%26+Data+Science+Undergraduate" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8A3B00,100:FF6D00&height=220&section=header&text=Desindu%20Pannilage&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20and%20Data%20Science%20Undergraduate&descAlign=75&descAlignY=75&descSize=18&descColor=FF6D00" width="100%" alt="Header Banner" />
 </div>
 
 <div align="left">
