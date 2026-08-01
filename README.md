@@ -77,7 +77,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Desin898&bg_color=00000000&color=FF6D00&line=FF6D00&point=FFFFFF&hide_border=true&custom_title=%20" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Desin898&bg_color=00000000&color=F6BC66&line=F6BC66&point=FFFFFF&hide_border=true&custom_title=%20" />
 </div>
 
 ---
