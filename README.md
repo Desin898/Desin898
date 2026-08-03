@@ -13,8 +13,8 @@
 ## 👨‍💻 About Me
 
 🎓 **AI & Data Science Undergraduate** at the Informatics Institute of Technology (IIT).  
-💡 Passionate about applying **Machine Learning** and **Deep Learning** to solve real-world problems.  
-☁️ Exploring **Data Engineering** pipelines and architecting cloud solutions on **AWS**.  
+💡 Passionate about applying **Machine Learning**, **Generative AI**, and **Agentic Systems** to solve real-world problems.  
+🛠️ Exploring RAG architectures, LLM APIs, and FastAPI to build practical AI applications.
 
 ---
 
