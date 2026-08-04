@@ -58,6 +58,16 @@
 
 ---
 
+### 📁 Featured Projects
+
+* **[Cardio-AI](https://github.com/Desin898/Cardio-AI)** — A multimodal AI-based coronary disease detection system that combines ECG analysis, angiogram image processing, cardiovascular risk prediction, and explainable AI to support early diagnosis and clinical decision-making.
+
+* **[Telco Churn Prediction](https://github.com/Desin898/Telco-Churn-Prediction)** — Telecom customer churn prediction pipeline combining Neural Networks & Decision Trees with automated business intervention logic and targeted cross-selling strategies.
+
+* **[Enterprise AI Workspace](https://github.com/Desin898/Enterprise-AI-Workspace)** — An enterprise-grade AI platform integrating Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) with ChromaDB, and Agentic AI workflows into a unified backend service.
+
+---
+
 ### 📊 Github Stats
 
 <p align="center">
