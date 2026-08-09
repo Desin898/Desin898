@@ -61,7 +61,7 @@
 
 ### 📁 Featured Projects
 
-* **[Enterprise AI Workspace](https://github.com/Desin898/Enterprise-AI-Workspace)** - Full-stack AI productivity platform featuring grounded document RAG with ChromaDB, autonomous agentic function calling, real-time LLMOps telemetry, and containerized cloud deployment (Next.js & FastAPI).
+* **[Enterprise AI Workspace](https://github.com/Desin898/Enterprise-AI-Workspace)** - Full-stack AI productivity platform featuring grounded document RAG with ChromaDB, autonomous agentic function calling, real-time LLMOps telemetry, and containerized cloud deployment.
 
 * **[Cardio-AI](https://github.com/Desin898/Cardio-AI)** - A multimodal AI-based coronary disease detection system that combines ECG analysis, angiogram image processing, cardiovascular risk prediction, and explainable AI to support early diagnosis and clinical decision-making.
 
