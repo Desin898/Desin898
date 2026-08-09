@@ -46,6 +46,7 @@
 
 ### 🚀 Currently Learning & Building
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Google_AI_Studio-8E44AD?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -60,11 +61,11 @@
 
 ### 📁 Featured Projects
 
-* **[Cardio-AI](https://github.com/Desin898/Cardio-AI)** — A multimodal AI-based coronary disease detection system that combines ECG analysis, angiogram image processing, cardiovascular risk prediction, and explainable AI to support early diagnosis and clinical decision-making.
+* **[Enterprise AI Workspace](https://github.com/Desin898/Enterprise-AI-Workspace)** - Full-stack AI productivity platform featuring grounded document RAG with ChromaDB, autonomous agentic function calling, real-time LLMOps telemetry, and containerized cloud deployment (Next.js & FastAPI).
 
-* **[Telco Churn Prediction](https://github.com/Desin898/Telco-Churn-Prediction)** — Telecom customer churn prediction pipeline combining Neural Networks & Decision Trees with automated business intervention logic and targeted cross-selling strategies.
+* **[Cardio-AI](https://github.com/Desin898/Cardio-AI)** - A multimodal AI-based coronary disease detection system that combines ECG analysis, angiogram image processing, cardiovascular risk prediction, and explainable AI to support early diagnosis and clinical decision-making.
 
-* **[Enterprise AI Workspace](https://github.com/Desin898/Enterprise-AI-Workspace)** — An enterprise-grade AI platform integrating Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) with ChromaDB, and Agentic AI workflows into a unified backend service.
+* **[Telco Churn Prediction](https://github.com/Desin898/Telco-Churn-Prediction)** - Telecom customer churn prediction pipeline combining Neural Networks & Decision Trees with automated business intervention logic and targeted cross-selling strategies.
 
 ---
 
